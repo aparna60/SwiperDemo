@@ -14,4 +14,6 @@ swiperRegister();
 })
 export class AppComponent {
   title = 'SwiperDemo';
+
+ 
 }
